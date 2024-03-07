@@ -50,5 +50,9 @@ header li a:hover {
 }
 
 main p {
-   color: #f0ead6
+   color: #f0ead6;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 30px;
 }
