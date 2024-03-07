@@ -56,3 +56,9 @@ main p {
    justify-content: center;
    padding: 30px;
 }
+
+#index {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
