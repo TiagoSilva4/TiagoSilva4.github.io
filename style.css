@@ -305,6 +305,10 @@ section {
     margin: auto 0;
 }
 
+.text-container p {
+    margin: 0.75rem;
+}
+
 /* Experience */
 
 #experience {
