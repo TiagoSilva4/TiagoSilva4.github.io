@@ -309,6 +309,10 @@ section {
     margin: 0.75rem;
 }
 
+.about-containers .icon {
+    cursor: default;
+}
+
 /* Experience */
 
 #experience {
